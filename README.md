@@ -1,4 +1,4 @@
-# Password Manager v1.1.2
+# RanPass v1.1.2
 
 A lightweight password management tool that allows you to generate, store, and retrieve passwords effortlessly. This program is written in Python and includes features for secure password handling and an accessible patch notes viewer.
 
